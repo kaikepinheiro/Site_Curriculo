@@ -15,11 +15,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #5cb874;
+  color: #47aeff;
 }
 
 a:hover {
-  color: #80c792;
+  color: #47aeff;
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5cb874;
+  background: #47aeff;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -56,7 +56,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #78c48c;
+  background: #00FFFF;
   color: #fff;
 }
 
@@ -82,11 +82,11 @@ h6 {
 }
 
 #topbar .contact-info a:hover {
-  color: #5cb874;
+  color: #47aeff;
 }
 
 #topbar .contact-info i {
-  color: #5cb874;
+  color: #47aeff;
   line-height: 0;
   margin-right: 5px;
 }
@@ -104,7 +104,7 @@ h6 {
 }
 
 #topbar .social-links a:hover {
-  color: #5cb874;
+  color: #47aeff;
 }
 
 /*--------------------------------------------------------------
@@ -132,7 +132,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #5cb874;
+  color: #47aeff;
 }
 
 #header .logo img {
@@ -188,23 +188,23 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #5cb874;
+  color: #47aeff;
 }
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  color: #5cb874;
+  color: #47aeff;
   padding: 8px 25px;
   margin-left: 30px;
   border-radius: 4px;
-  border: 2px solid #5cb874;
+  border: 2px solid #47aeff;
   transition: 0.3s;
   font-size: 14px;
 }
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  background: #5cb874;
+  background: #47aeff;
   color: #fff;
 }
 
@@ -239,7 +239,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #5cb874;
+  color: #47aeff;
 }
 
 .navbar .dropdown:hover>ul {
@@ -338,7 +338,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #5cb874;
+  color: #47aeff;
 }
 
 .navbar-mobile .getstarted,
@@ -407,7 +407,7 @@ h6 {
 
 #hero .carousel-item::before {
   content: "";
-  background-color: rgba(45, 103, 60, 0.8);
+  background-color: rgba(39, 132, 220, 0.8);
 }
 
 #hero .carousel-container {
@@ -495,7 +495,7 @@ h6 {
 
 #hero .carousel-indicators li.active {
   opacity: 1;
-  background: #5cb874;
+  background: #47aeff;
 }
 
 #hero .btn-get-started {
@@ -511,11 +511,11 @@ h6 {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  background: #5cb874;
+  background: #47aeff;
 }
 
 #hero .btn-get-started:hover {
-  background: #6ec083;
+  background: #00BFFF;
 }
 
 @media (max-width: 992px) {
@@ -590,7 +590,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #5cb874;
+  background: #47aeff;
   bottom: 0;
   left: calc(50% - 20px);
 }
