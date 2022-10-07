@@ -111,7 +111,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background: #B0C4DE;
   transition: all 0.5s;
   z-index: 997;
   height: 70px;
@@ -1412,7 +1412,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #090909;
+  background: #0000CD;
   color: #fff;
   font-size: 14px;
   text-align: center;
@@ -1456,7 +1456,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #1E90FF;
+  background: #00BFFF;
   color: #fff;
   text-decoration: none;
 }
