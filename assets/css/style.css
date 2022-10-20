@@ -672,6 +672,11 @@ section {
   margin-bottom: 0;
 }
 
+.img-fluid{
+  height: 85%;
+  width: 60%;
+}
+
 /*--------------------------------------------------------------
 # Why Us
 --------------------------------------------------------------*/
@@ -820,7 +825,7 @@ section {
 }
 
 .services .iconbox-orange i {
-  color: #ffa76e;
+  color: #47aeff;
 }
 
 .services .iconbox-orange:hover .icon i {
@@ -828,11 +833,11 @@ section {
 }
 
 .services .iconbox-orange:hover .icon path {
-  fill: #ffa76e;
+  fill: #47aeff;
 }
 
 .services .iconbox-pink i {
-  color: #e80368;
+  color: #47aeff;
 }
 
 .services .iconbox-pink:hover .icon i {
@@ -840,11 +845,11 @@ section {
 }
 
 .services .iconbox-pink:hover .icon path {
-  fill: #e80368;
+  fill: #47aeff;
 }
 
 .services .iconbox-yellow i {
-  color: #ffbb2c;
+  color: #47aeff;
 }
 
 .services .iconbox-yellow:hover .icon i {
@@ -852,11 +857,11 @@ section {
 }
 
 .services .iconbox-yellow:hover .icon path {
-  fill: #ffbb2c;
+  fill: #47aeff;
 }
 
 .services .iconbox-red i {
-  color: #ff5828;
+  color: #47aeff;
 }
 
 .services .iconbox-red:hover .icon i {
@@ -864,11 +869,11 @@ section {
 }
 
 .services .iconbox-red:hover .icon path {
-  fill: #ff5828;
+  fill: #47aeff;
 }
 
 .services .iconbox-teal i {
-  color: #11dbcf;
+  color: #47aeff;
 }
 
 .services .iconbox-teal:hover .icon i {
@@ -876,7 +881,7 @@ section {
 }
 
 .services .iconbox-teal:hover .icon path {
-  fill: #11dbcf;
+  fill: #47aeff;
 }
 
 /*--------------------------------------------------------------
