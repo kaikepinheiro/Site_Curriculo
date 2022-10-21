@@ -922,6 +922,43 @@ section {
   color: #47aeff;
 }
 
+.skills{
+  background: #47aeff;
+}
+
+.skills .progress{
+  height: 60px;
+  display: block;
+  background: none;
+  border-radius: 0;
+}
+
+.skills .progress .skill{
+  padding: 0;
+  margin: 0 0 6px 0;
+  text-transform: uppercase;
+  display: block;
+  font-weight: 600;
+  color: #050d18;
+}
+
+.skills .progress .skill .val{
+  float: right;
+  font-style: normal;
+}
+
+.skills .progress-bar-wrap{
+  background: #dce8f8;
+  height: 10px;
+}
+
+.skills .progress-bar{
+  width: 1px;
+  height: 10px;
+  transition: 0.9s;
+  background-color: #87CEFA;
+}
+
 @media (max-width: 1024px) {
   .cta {
     background-attachment: scroll;
@@ -1196,7 +1233,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #eaf6ed;
+  background: #87CEFA;
   display: flex;
   justify-content: center;
   align-items: center;
